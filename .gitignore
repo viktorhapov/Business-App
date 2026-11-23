@@ -1,0 +1,25 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Editor temporary files and settings
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*~
+
+# Operating-system temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.temp
+
+# Large lesson audio
+public/audio/*.wav
