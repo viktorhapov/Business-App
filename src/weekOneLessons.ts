@@ -124,13 +124,13 @@ export const daySevenCase = {
 }
 
 export const weekOneAudioPaths: Record<number, string> = {
-  1:'/audio/day-01-business-fundamentals.wav',
-  2:'/audio/day-02-business-ideas.wav',
-  3:'/audio/day-03-understanding-your-customer.wav',
-  4:'/audio/day-04-markets-and-competition.wav',
-  5:'/audio/day-05-how-businesses-make-money.wav',
-  6:'/audio/day-06-business-models.wav',
-  7:'/audio/day-07-weekly-review.wav',
+  1:'/audio/mp3/day-01-business-fundamentals.mp3',
+  2:'/audio/mp3/day-02-business-ideas.mp3',
+  3:'/audio/mp3/day-03-understanding-your-customer.mp3',
+  4:'/audio/mp3/day-04-markets-and-competition.mp3',
+  5:'/audio/mp3/day-05-how-businesses-make-money.mp3',
+  6:'/audio/mp3/day-06-business-models.mp3',
+  7:'/audio/mp3/day-07-weekly-review.mp3',
 }
 
 export function buildWeekOneNarration(day: number): string {

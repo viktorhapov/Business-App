@@ -1,5 +1,5 @@
 const CACHE_VERSION = 'business-learning-shell-v1'
-const SHELL = ['/', '/manifest.webmanifest', '/icons/app-icon.svg', '/icons/app-icon-192.png', '/icons/app-icon-512.png', '/icons/apple-touch-icon.png']
+const SHELL = ['/manifest.webmanifest', '/icons/app-icon.svg', '/icons/app-icon-192.png', '/icons/app-icon-512.png', '/icons/apple-touch-icon.png']
 
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
@@ -47,7 +47,7 @@ self.addEventListener('fetch', event => {
       const cached = await caches.match(request)
       if (cached) return cached
       const response = await fetch(request)
-      if (response.ok) (await caches.open(CACHE_VERSION)).put(request, response.clone())
+      if (response.ok) await (await caches.open(CACHE_VERSION)).put(request, response.clone())
       return response
     })())
   }

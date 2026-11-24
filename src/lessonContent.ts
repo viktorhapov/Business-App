@@ -120,7 +120,7 @@ export const dayOneFinalReview = [
   'A business model explains how a company creates value and earns money.',
 ]
 export const dayOneClosing = 'Well done. You have completed Day 1 of Business Learning. You now know ten core terms and how they connect. Choose one business you know and try to describe its customers, offer, value, revenue, costs, and business model in English. See you in the next lesson.'
-export const dayOneAudio = '/audio/day-01-business-fundamentals.wav'
+export const dayOneAudio = '/audio/mp3/day-01-business-fundamentals.mp3'
 
 export function buildDayOneNarration(): string {
   const sections = ['BUSINESS LEARNING — DAY 1: BUSINESS FUNDAMENTALS', 'Complete audio lesson narration script', '', 'INTRODUCTION', dayOneIntroduction]

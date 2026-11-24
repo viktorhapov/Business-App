@@ -13,7 +13,11 @@ From a Windows PowerShell terminal at the project root:
 .\scripts\generate-lesson-audio.ps1 -Day 7
 ```
 
-Audio files are saved in `public/audio/` using the same paths used by the lesson player. Each narration has a five-second pause at question cues. No cloud service or added package is used. The script checks for David and stops without writing an audio file if that voice is unavailable in the current Windows session.
+The narration generator saves WAV source files in `public/audio/`; the lesson player uses the compressed MP3 files in `public/audio/mp3/`. Each narration has a five-second pause at question cues. No cloud service or added package is used. The script checks for David and stops without writing an audio file if that voice is unavailable in the current Windows session. After creating or refreshing WAVs, convert the week with the installed FFmpeg:
+
+```powershell
+.\scripts\convert-week-one-audio.ps1
+```
 
 To prepare or refresh all Day 2–7 narration transcripts without creating audio:
 
@@ -21,4 +25,4 @@ To prepare or refresh all Day 2–7 narration transcripts without creating audio
 node .\scripts\generate-week-one-narrations.mjs
 ```
 
-Day 1's existing transcript and WAV are preserved.
+Day 1's existing transcript and WAV are preserved. The converter also leaves all WAV source files unchanged.
