@@ -1,3 +1,4 @@
+import { publicAsset } from './publicAsset'
 import type { LessonTermContent } from './lessonContent'
 import { dayOneTerms, dayOneFinalReview, dayOneClosing, dayOneIntroduction } from './lessonContent'
 
@@ -124,13 +125,13 @@ export const daySevenCase = {
 }
 
 export const weekOneAudioPaths: Record<number, string> = {
-  1:'/audio/mp3/day-01-business-fundamentals.mp3',
-  2:'/audio/mp3/day-02-business-ideas.mp3',
-  3:'/audio/mp3/day-03-understanding-your-customer.mp3',
-  4:'/audio/mp3/day-04-markets-and-competition.mp3',
-  5:'/audio/mp3/day-05-how-businesses-make-money.mp3',
-  6:'/audio/mp3/day-06-business-models.mp3',
-  7:'/audio/mp3/day-07-weekly-review.mp3',
+  1:publicAsset('audio/mp3/day-01-business-fundamentals.mp3'),
+  2:publicAsset('audio/mp3/day-02-business-ideas.mp3'),
+  3:publicAsset('audio/mp3/day-03-understanding-your-customer.mp3'),
+  4:publicAsset('audio/mp3/day-04-markets-and-competition.mp3'),
+  5:publicAsset('audio/mp3/day-05-how-businesses-make-money.mp3'),
+  6:publicAsset('audio/mp3/day-06-business-models.mp3'),
+  7:publicAsset('audio/mp3/day-07-weekly-review.mp3'),
 }
 
 export function buildWeekOneNarration(day: number): string {
@@ -140,3 +141,4 @@ export function buildWeekOneNarration(day: number): string {
   if (!lesson) throw new Error(`Week one lesson ${day} is not defined.`)
   return [`BUSINESS LEARNING — DAY ${day}: ${lesson.title}`,'Complete audio lesson narration script','','INTRODUCTION',lesson.introduction,...lesson.terms.flatMap((item,index)=>['',`TERM ${index+1} — ${item.term}`,item.transition,`The term is ${item.term}. ${item.term}. ${item.term}.`,`Pronunciation: ${item.pronunciation}.`,`Russian translation: ${item.translation}.`,`In simple English: ${item.simpleEnglish}`,`Detailed explanation in Russian: ${item.russian}`,'Real business examples:',...item.examples,'English in context:',...item.context,'Listen and repeat:',...item.repetition,'Quick question:',item.question,'[Pause for five seconds.]',`Answer: ${item.answer}`]),'','FINAL REVIEW',...lesson.terms.slice(0, 5).map(item => `${item.term}: ${item.simpleEnglish}`),'','CLOSING',lesson.closing].join('\n')
 }
+

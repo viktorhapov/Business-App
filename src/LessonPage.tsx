@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { ArrowLeft, Bookmark, BookOpen, Check, Clock3, Pause, Play, RotateCcw, RotateCw } from 'lucide-react'
 import { dayOneClosing, dayOneFinalReview, dayOneIntroduction, type LessonTermContent } from './lessonContent'
+import { publicAsset } from './publicAsset'
 
 export type LearningLesson = { id: number; day: number; title: string; category: string; minutes: number; status: 'not-started' | 'in-progress' | 'completed' }
 type Props = { lesson: LearningLesson; content: LessonTermContent[]; audioSrc?: string; introduction?: string; closing?: string; finalReview?: string[]; reviewCase?: { introduction:string; caseStudy:string; questions:{question:string;answer:string}[]; finalQuiz:{question:string;answer:string}[] }; reviewPrompts?: {question:string;answer:string}[]; favorites: string[]; onFavorite: (term: string) => void; onBack: () => void; onComplete: () => void }
@@ -30,7 +31,7 @@ export default function LessonPage({ lesson, content, audioSrc, introduction, cl
       title: lesson.title,
       artist: 'Business Learning',
       album: `Day ${lesson.day} · ${lesson.category}`,
-      artwork: [{ src: '/icons/app-icon-192.png', sizes: '192x192', type: 'image/png' }],
+      artwork: [{ src: publicAsset('icons/app-icon-192.png'), sizes: '192x192', type: 'image/png' }],
     })
     const seekFromLockScreen = (seconds: number) => {
       const player = audio.current

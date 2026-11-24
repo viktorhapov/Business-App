@@ -1,6 +1,6 @@
 # Business Learning deployment notes
 
-The production build is written to `dist/` with `npm run build`. Publish the contents of that folder at the root of a static HTTPS site. This project uses root-relative URLs, so hosting it below a URL subfolder needs a separate base-path change.
+The production build is written to `dist/` with `npm run build`. This repository is configured for GitHub Pages at `https://viktorhapov.github.io/Business-App/`; publish the contents of `dist/` at that project-site URL. The Vite base path, PWA manifest, public assets, and service worker all use the `/Business-App/` scope.
 
 The host needs to:
 
