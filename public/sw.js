@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'business-learning-shell-v2'
+const CACHE_VERSION = 'business-learning-shell-v3'
 const APP_ROOT = new URL('./', self.registration.scope).href
 const BASE_PATH = new URL(APP_ROOT).pathname
 const SHELL = [
