@@ -10,7 +10,7 @@
 
 .full-term{padding:18px 2px;border-bottom:1px solid #252e39;color:#aab4c1}.full-term:last-child{border-bottom:0}.term-heading{display:flex;align-items:center;gap:11px}.term-heading h3{font:600 16px var(--serif);color:#e9edf4;margin:0 0 3px}.term-heading small{font-size:9px;color:#8090a2}.term-number{width:27px;height:27px;border-radius:7px;background:#1d2a3e;color:#a8c4ff;display:grid;place-items:center;font-size:9px}.full-term p,.full-term li{font-size:10px;line-height:1.75}.full-term ul{padding-left:19px}.full-term h4{font-size:9px;letter-spacing:.5px;color:#a9c2ed;margin:14px 0 4px}.term-translation{color:#c4d6fa!important}.term-simple{color:#e0e5ed!important}.term-russian{color:#9ba7b4!important}.lesson-intro{font-size:11px;line-height:1.8;color:#99a5b3;max-width:720px}.audio-missing{min-height:160px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:#8c98a8;gap:9px}.audio-missing>span{width:38px;height:38px;border:1px solid #34445b;background:#1b2636;color:#a9c4f6;border-radius:10px;display:grid;place-items:center}.audio-missing strong{font-size:12px;color:#d8e0eb}.audio-missing p{font-size:10px;margin:0}.audio-missing small{font-size:8px;color:#68798d}.audio-player{padding:15px;background:#141b25;border:1px solid #293544;border-radius:9px;max-width:600px}.audio-controls{display:flex;align-items:center;gap:12px}.audio-controls button{position:relative;display:grid;place-items:center;width:32px;height:32px;background:none;border:0;color:#9cacc0;cursor:pointer}.audio-controls button small{position:absolute;bottom:0;font-size:6px}.audio-controls .audio-play{height:40px;width:40px;background:#a5c1ff;color:#122037;border-radius:50%}.audio-time{font-size:9px;color:#a4b0bf;margin-left:auto}.audio-controls select{background:#1b2531;border:1px solid #303b49;color:#bfc9d7;border-radius:5px;padding:5px;font-size:9px}.audio-seek{width:100%;margin:15px 0 0;accent-color:#9bbafa}.lesson-section>div>audio{display:none}
 @media(max-width:640px){.audio-player{padding:11px}.audio-controls{gap:6px}.audio-time{font-size:8px}.full-term{padding:15px 0}.full-term p,.full-term li{font-size:9px}}
-.term-practice{font:600 11px var(--serif);letter-spacing:.2px;color:#b8cdf1!important;margin:10px 0}
+
 
 /* iPhone safe areas, readable lesson text, and reliable touch targets. */
 html{background:var(--bg);-webkit-text-size-adjust:100%;text-size-adjust:100%}
@@ -64,5 +64,23 @@ body{overflow-x:hidden}
   .main-area.lesson-open{min-height:0}
   .main-area.lesson-open .page-footer{display:none}
   .toast{bottom:calc(16px + env(safe-area-inset-bottom))}
+}
+
+@media(min-width:901px){
+  .app-shell{display:grid;grid-template-columns:244px minmax(0,1fr);grid-template-rows:auto auto;align-items:start}
+  .sidebar{position:sticky;inset:auto;grid-column:1;grid-row:1 / span 2;width:244px;height:100vh;align-self:start}
+  .main-area{grid-column:2;grid-row:1;margin-left:0;min-width:0}
+  .main-area.lesson-open{min-height:0}
+  .main-area.lesson-open .page-footer{display:none}
+  .app-shell>.lesson-page{grid-column:2;grid-row:2;width:min(1060px,100%);margin:0 auto}
+}
+
+@media(min-width:641px) and (max-width:900px){
+  .app-shell{display:grid;grid-template-columns:214px minmax(0,1fr);grid-template-rows:auto auto;align-items:start}
+  .sidebar{position:sticky;inset:auto;grid-column:1;grid-row:1 / span 2;width:214px;height:100vh;align-self:start}
+  .main-area{grid-column:2;grid-row:1;margin-left:0;min-width:0}
+  .main-area.lesson-open{min-height:0}
+  .main-area.lesson-open .page-footer{display:none}
+  .app-shell>.lesson-page{grid-column:2;grid-row:2;width:min(1060px,100%);margin:0 auto}
 }
 

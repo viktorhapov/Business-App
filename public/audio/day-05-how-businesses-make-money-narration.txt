@@ -2,234 +2,194 @@ BUSINESS LEARNING — DAY 5: How Businesses Make Money
 Complete audio lesson narration script
 
 INTRODUCTION
-Welcome to Day 5. Today we will follow the numbers behind a business. We will look at sales volume, fixed and variable costs, break-even, cash flow, pricing, margins, recurring revenue, unit economics, and operating expenses.
+[EN] Welcome to Day 5. Today we will follow the numbers behind a business. We will look at sales volume, fixed and variable costs, break-even, cash flow, pricing, margins, recurring revenue, unit economics, and operating expenses.
 
 TERM 1 — Sales Volume
-Let's start with sales volume and build the idea step by step.
-The term is Sales Volume. Sales Volume. Sales Volume.
-Pronunciation: SAYLZ VOL-yoom.
-Russian translation: объём продаж.
-In simple English: Sales volume is the number of units or transactions sold in a period.
-Detailed explanation in Russian: Объём продаж — количество проданных единиц товара или совершённых сделок за период. Он помогает оценивать спрос, планировать запасы и рассчитывать загрузку команды. Для понимания результата объём нужно рассматривать вместе с ценой, маржой и расходами на привлечение каждой продажи.
-Real business examples:
-The shop increased sales volume during the holiday weekend.
-The charter company tracked sales volume by boat size and season.
-English in context:
-The team reviewed sales volume before making its next decision.
-The manager explained sales volume to a new colleague with a practical example.
-Listen and repeat:
-Keep sales volume in mind when planning the next step.
-A business can use sales volume to make a more informed choice.
-In practice, sales volume is the number of units or transactions sold in a period.
-Quick question:
-How can sales volume help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Let's start with sales volume and build the idea step by step.
+[EN] In simple English: Sales volume is the number of units or transactions sold in a period.
+[EN] Business examples.
+[EN] The shop increased sales volume during the holiday weekend.
+[EN] The charter company tracked sales volume by boat size and season.
+[EN] English in context.
+[EN] The team reviewed sales volume before making its next decision.
+[EN] The manager explained sales volume to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep sales volume in mind when planning the next step.
+[EN] A business can use sales volume to make a more informed choice.
+[EN] In practice, sales volume is the number of units or transactions sold in a period.
+[EN] Quick question.
+[EN] How can sales volume help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 2 — Fixed Costs
-Now that we have explored sales volume, let's connect it to fixed costs.
-The term is Fixed Costs. Fixed Costs. Fixed Costs.
-Pronunciation: fikst kawsts.
-Russian translation: постоянные затраты.
-In simple English: Fixed costs usually stay similar when sales volume changes over a short period.
-Detailed explanation in Russian: Постоянные затраты в краткосрочном периоде не меняются напрямую от количества продаж. Примеры — аренда помещения, базовая страховка или фиксированная часть зарплат. Они всё равно могут изменяться со временем, поэтому термин не означает, что расход никогда не меняется.
-Real business examples:
-Rent and basic insurance were the café’s largest fixed costs.
-A workshop pays fixed costs for its premises even in a quiet month.
-English in context:
-The team reviewed fixed costs before making its next decision.
-The manager explained fixed costs to a new colleague with a practical example.
-Listen and repeat:
-Keep fixed costs in mind when planning the next step.
-A business can use fixed costs to make a more informed choice.
-In practice, fixed costs usually stay similar when sales volume changes over a short period.
-Quick question:
-How can fixed costs help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored sales volume, let's connect it to fixed costs.
+[EN] In simple English: Fixed costs usually stay similar when sales volume changes over a short period.
+[EN] Business examples.
+[EN] Rent and basic insurance were the café’s largest fixed costs.
+[EN] A workshop pays fixed costs for its premises even in a quiet month.
+[EN] English in context.
+[EN] The team reviewed fixed costs before making its next decision.
+[EN] The manager explained fixed costs to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep fixed costs in mind when planning the next step.
+[EN] A business can use fixed costs to make a more informed choice.
+[EN] In practice, fixed costs usually stay similar when sales volume changes over a short period.
+[EN] Quick question.
+[EN] How can fixed costs help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 3 — Variable Costs
-Now that we have explored fixed costs, let's connect it to variable costs.
-The term is Variable Costs. Variable Costs. Variable Costs.
-Pronunciation: VAIR-ee-uh-bul kawsts.
-Russian translation: переменные затраты.
-In simple English: Variable costs rise or fall with the amount a business produces or sells.
-Detailed explanation in Russian: Переменные затраты обычно зависят от объёма выпуска или продаж. Сюда могут входить ингредиенты, упаковка, комиссия за транзакцию и доставка конкретного заказа. Понимание переменных затрат помогает оценивать прибыльность дополнительной продажи и выбирать цену.
-Real business examples:
-Packaging was a variable cost for the online store.
-Each extra meal increased the restaurant’s ingredient costs.
-English in context:
-The team reviewed variable costs before making its next decision.
-The manager explained variable costs to a new colleague with a practical example.
-Listen and repeat:
-Keep variable costs in mind when planning the next step.
-A business can use variable costs to make a more informed choice.
-In practice, variable costs rise or fall with the amount a business produces or sells.
-Quick question:
-How can variable costs help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored fixed costs, let's connect it to variable costs.
+[EN] In simple English: Variable costs rise or fall with the amount a business produces or sells.
+[EN] Business examples.
+[EN] Packaging was a variable cost for the online store.
+[EN] Each extra meal increased the restaurant’s ingredient costs.
+[EN] English in context.
+[EN] The team reviewed variable costs before making its next decision.
+[EN] The manager explained variable costs to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep variable costs in mind when planning the next step.
+[EN] A business can use variable costs to make a more informed choice.
+[EN] In practice, variable costs rise or fall with the amount a business produces or sells.
+[EN] Quick question.
+[EN] How can variable costs help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 4 — Break-Even Point
-Now that we have explored variable costs, let's connect it to break-even point.
-The term is Break-Even Point. Break-Even Point. Break-Even Point.
-Pronunciation: BRAYK EE-vun point.
-Russian translation: точка безубыточности.
-In simple English: The break-even point is when revenue covers all costs, so the business makes neither a profit nor a loss.
-Detailed explanation in Russian: Точка безубыточности — объём продаж или выручки, при котором доходы покрывают постоянные и переменные затраты. Ниже этой точки компания несёт убыток; выше — может получать прибыль. Расчёт помогает оценить минимально необходимый спрос, хотя реальные результаты зависят от изменения цен и расходов.
-Real business examples:
-The café calculated how many lunches it needed to sell to reach break-even.
-The startup set a break-even target before hiring its next employee.
-English in context:
-The team reviewed break-even point before making its next decision.
-The manager explained break-even point to a new colleague with a practical example.
-Listen and repeat:
-Keep break-even point in mind when planning the next step.
-A business can use break-even point to make a more informed choice.
-In practice, the break-even point is when revenue covers all costs, so the business makes neither a profit nor a loss.
-Quick question:
-How can break-even point help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored variable costs, let's connect it to break-even point.
+[EN] In simple English: The break-even point is when revenue covers all costs, so the business makes neither a profit nor a loss.
+[EN] Business examples.
+[EN] The café calculated how many lunches it needed to sell to reach break-even.
+[EN] The startup set a break-even target before hiring its next employee.
+[EN] English in context.
+[EN] The team reviewed break-even point before making its next decision.
+[EN] The manager explained break-even point to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep break-even point in mind when planning the next step.
+[EN] A business can use break-even point to make a more informed choice.
+[EN] In practice, the break-even point is when revenue covers all costs, so the business makes neither a profit nor a loss.
+[EN] Quick question.
+[EN] How can break-even point help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 5 — Cash Flow
-Now that we have explored break-even point, let's connect it to cash flow.
-The term is Cash Flow. Cash Flow. Cash Flow.
-Pronunciation: KASH floh.
-Russian translation: денежный поток.
-In simple English: Cash flow is the money moving into and out of a business over time.
-Detailed explanation in Russian: Денежный поток отражает фактические поступления и платежи, а не только прибыль в отчёте. Компания может быть прибыльной, но испытывать нехватку денег, если клиенты платят поздно, а поставщикам нужно платить сейчас. Планирование потоков помогает вовремя покрывать обязательства и избегать кассовых разрывов.
-Real business examples:
-The contractor improved cash flow by asking customers for a deposit.
-The marina planned cash flow around seasonal berth payments.
-English in context:
-The team reviewed cash flow before making its next decision.
-The manager explained cash flow to a new colleague with a practical example.
-Listen and repeat:
-Keep cash flow in mind when planning the next step.
-A business can use cash flow to make a more informed choice.
-In practice, cash flow is the money moving into and out of a business over time.
-Quick question:
-How can cash flow help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored break-even point, let's connect it to cash flow.
+[EN] In simple English: Cash flow is the money moving into and out of a business over time.
+[EN] Business examples.
+[EN] The contractor improved cash flow by asking customers for a deposit.
+[EN] The marina planned cash flow around seasonal berth payments.
+[EN] English in context.
+[EN] The team reviewed cash flow before making its next decision.
+[EN] The manager explained cash flow to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep cash flow in mind when planning the next step.
+[EN] A business can use cash flow to make a more informed choice.
+[EN] In practice, cash flow is the money moving into and out of a business over time.
+[EN] Quick question.
+[EN] How can cash flow help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 6 — Markup
-Now that we have explored cash flow, let's connect it to markup.
-The term is Markup. Markup. Markup.
-Pronunciation: MAR-kup.
-Russian translation: наценка.
-In simple English: Markup is the amount added to a product’s cost to set its selling price.
-Detailed explanation in Russian: Наценка — сумма или процент, добавляемые к себестоимости товара при формировании цены. Она помогает покрыть другие расходы и получить желаемый финансовый результат. Наценка рассчитывается относительно затрат, поэтому её нельзя путать с валовой маржой, которая считается от цены продажи.
-Real business examples:
-The shop added a markup to the wholesale price of each jacket.
-A chandlery reviewed its markup after supplier prices increased.
-English in context:
-The team reviewed markup before making its next decision.
-The manager explained markup to a new colleague with a practical example.
-Listen and repeat:
-Keep markup in mind when planning the next step.
-A business can use markup to make a more informed choice.
-In practice, markup is the amount added to a product’s cost to set its selling price.
-Quick question:
-How can markup help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored cash flow, let's connect it to markup.
+[EN] In simple English: Markup is the amount added to a product’s cost to set its selling price.
+[EN] Business examples.
+[EN] The shop added a markup to the wholesale price of each jacket.
+[EN] A chandlery reviewed its markup after supplier prices increased.
+[EN] English in context.
+[EN] The team reviewed markup before making its next decision.
+[EN] The manager explained markup to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep markup in mind when planning the next step.
+[EN] A business can use markup to make a more informed choice.
+[EN] In practice, markup is the amount added to a product’s cost to set its selling price.
+[EN] Quick question.
+[EN] How can markup help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 7 — Gross Margin
-Now that we have explored markup, let's connect it to gross margin.
-The term is Gross Margin. Gross Margin. Gross Margin.
-Pronunciation: grohs MAR-jin.
-Russian translation: валовая маржа.
-In simple English: Gross margin is the share of sales revenue left after direct costs of the products or services are paid.
-Detailed explanation in Russian: Валовая маржа показывает долю выручки, остающуюся после вычета прямых затрат на проданные товары или оказанные услуги. Её часто выражают в процентах от выручки. Она помогает сравнивать экономику продуктов, но ещё не учитывает все операционные расходы компании.
-Real business examples:
-The café improved gross margin by reducing ingredient waste.
-The software company had a high gross margin because each extra user cost little to serve.
-English in context:
-The team reviewed gross margin before making its next decision.
-The manager explained gross margin to a new colleague with a practical example.
-Listen and repeat:
-Keep gross margin in mind when planning the next step.
-A business can use gross margin to make a more informed choice.
-In practice, gross margin is the share of sales revenue left after direct costs of the products or services are paid.
-Quick question:
-How can gross margin help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored markup, let's connect it to gross margin.
+[EN] In simple English: Gross margin is the share of sales revenue left after direct costs of the products or services are paid.
+[EN] Business examples.
+[EN] The café improved gross margin by reducing ingredient waste.
+[EN] The software company had a high gross margin because each extra user cost little to serve.
+[EN] English in context.
+[EN] The team reviewed gross margin before making its next decision.
+[EN] The manager explained gross margin to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep gross margin in mind when planning the next step.
+[EN] A business can use gross margin to make a more informed choice.
+[EN] In practice, gross margin is the share of sales revenue left after direct costs of the products or services are paid.
+[EN] Quick question.
+[EN] How can gross margin help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 8 — Recurring Revenue
-Now that we have explored gross margin, let's connect it to recurring revenue.
-The term is Recurring Revenue. Recurring Revenue. Recurring Revenue.
-Pronunciation: ri-KUR-ing REV-uh-noo.
-Russian translation: регулярная, повторяющаяся выручка.
-In simple English: Recurring revenue is income a business expects to receive repeatedly from ongoing customer agreements.
-Detailed explanation in Russian: Регулярная выручка поступает повторно по подпискам, договорам обслуживания или другим продолжающимся соглашениям. Она делает планирование более предсказуемым, но зависит от удержания клиентов, отмен и способности постоянно обеспечивать ценность. Регулярный платёж сам по себе не гарантирует стабильный доход.
-Real business examples:
-The fitness studio earned recurring revenue from monthly memberships.
-The marine service company offered recurring revenue through annual maintenance plans.
-English in context:
-The team reviewed recurring revenue before making its next decision.
-The manager explained recurring revenue to a new colleague with a practical example.
-Listen and repeat:
-Keep recurring revenue in mind when planning the next step.
-A business can use recurring revenue to make a more informed choice.
-In practice, recurring revenue is income a business expects to receive repeatedly from ongoing customer agreements.
-Quick question:
-How can recurring revenue help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored gross margin, let's connect it to recurring revenue.
+[EN] In simple English: Recurring revenue is income a business expects to receive repeatedly from ongoing customer agreements.
+[EN] Business examples.
+[EN] The fitness studio earned recurring revenue from monthly memberships.
+[EN] The marine service company offered recurring revenue through annual maintenance plans.
+[EN] English in context.
+[EN] The team reviewed recurring revenue before making its next decision.
+[EN] The manager explained recurring revenue to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep recurring revenue in mind when planning the next step.
+[EN] A business can use recurring revenue to make a more informed choice.
+[EN] In practice, recurring revenue is income a business expects to receive repeatedly from ongoing customer agreements.
+[EN] Quick question.
+[EN] How can recurring revenue help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 9 — Unit Economics
-Now that we have explored recurring revenue, let's connect it to unit economics.
-The term is Unit Economics. Unit Economics. Unit Economics.
-Pronunciation: YOO-nit ee-kuh-NOM-iks.
-Russian translation: экономика одной единицы продукта или клиента.
-In simple English: Unit economics describes the revenue and costs connected to one sale, customer, or product unit.
-Detailed explanation in Russian: Юнит-экономика сравнивает доход и затраты на единицу бизнеса — например, один заказ, одного клиента или одну подписку. Она помогает понять, приносит ли дополнительный объём продаж пользу или увеличивает убыток. Результат зависит от корректного выбора единицы и включения значимых расходов.
-Real business examples:
-The startup checked unit economics for each new subscription customer.
-The delivery business compared unit economics across its city zones.
-English in context:
-The team reviewed unit economics before making its next decision.
-The manager explained unit economics to a new colleague with a practical example.
-Listen and repeat:
-Keep unit economics in mind when planning the next step.
-A business can use unit economics to make a more informed choice.
-In practice, unit economics describes the revenue and costs connected to one sale, customer, or product unit.
-Quick question:
-How can unit economics help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored recurring revenue, let's connect it to unit economics.
+[EN] In simple English: Unit economics describes the revenue and costs connected to one sale, customer, or product unit.
+[EN] Business examples.
+[EN] The startup checked unit economics for each new subscription customer.
+[EN] The delivery business compared unit economics across its city zones.
+[EN] English in context.
+[EN] The team reviewed unit economics before making its next decision.
+[EN] The manager explained unit economics to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep unit economics in mind when planning the next step.
+[EN] A business can use unit economics to make a more informed choice.
+[EN] In practice, unit economics describes the revenue and costs connected to one sale, customer, or product unit.
+[EN] Quick question.
+[EN] How can unit economics help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 10 — Operating Expenses (OPEX)
-Now that we have explored unit economics, let's connect it to operating expenses (opex).
-The term is Operating Expenses (OPEX). Operating Expenses (OPEX). Operating Expenses (OPEX).
-Pronunciation: OP-er-ay-ting ik-SPEN-siz.
-Russian translation: операционные расходы (OPEX).
-In simple English: Operating expenses are the ongoing costs of running a business, apart from direct production costs.
-Detailed explanation in Russian: Операционные расходы — текущие затраты на управление компанией, которые не относятся напрямую к себестоимости проданных товаров. Это могут быть аренда офиса, административные зарплаты, маркетинг и программные инструменты. Их анализ помогает контролировать эффективность работы, не сокращая автоматически расходы, которые поддерживают рост.
-Real business examples:
-The company reviewed its operating expenses before renewing software contracts.
-The restaurant tracked operating expenses such as rent, advertising, and office supplies.
-English in context:
-The team reviewed operating expenses (opex) before making its next decision.
-The manager explained operating expenses (opex) to a new colleague with a practical example.
-Listen and repeat:
-Keep operating expenses (opex) in mind when planning the next step.
-A business can use operating expenses (opex) to make a more informed choice.
-In practice, operating expenses are the ongoing costs of running a business, apart from direct production costs.
-Quick question:
-How can operating expenses (opex) help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored unit economics, let's connect it to operating expenses (opex).
+[EN] In simple English: Operating expenses are the ongoing costs of running a business, apart from direct production costs.
+[EN] Business examples.
+[EN] The company reviewed its operating expenses before renewing software contracts.
+[EN] The restaurant tracked operating expenses such as rent, advertising, and office supplies.
+[EN] English in context.
+[EN] The team reviewed operating expenses (opex) before making its next decision.
+[EN] The manager explained operating expenses (opex) to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep operating expenses (opex) in mind when planning the next step.
+[EN] A business can use operating expenses (opex) to make a more informed choice.
+[EN] In practice, operating expenses are the ongoing costs of running a business, apart from direct production costs.
+[EN] Quick question.
+[EN] How can operating expenses (opex) help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 FINAL REVIEW
-Sales Volume: Sales volume is the number of units or transactions sold in a period.
-Fixed Costs: Fixed costs usually stay similar when sales volume changes over a short period.
-Variable Costs: Variable costs rise or fall with the amount a business produces or sells.
-Break-Even Point: The break-even point is when revenue covers all costs, so the business makes neither a profit nor a loss.
-Cash Flow: Cash flow is the money moving into and out of a business over time.
+[EN] Sales Volume: Sales volume is the number of units or transactions sold in a period.
+[EN] Fixed Costs: Fixed costs usually stay similar when sales volume changes over a short period.
+[EN] Variable Costs: Variable costs rise or fall with the amount a business produces or sells.
+[EN] Break-Even Point: The break-even point is when revenue covers all costs, so the business makes neither a profit nor a loss.
+[EN] Cash Flow: Cash flow is the money moving into and out of a business over time.
 
 CLOSING
-You have completed Day 5. Sales alone do not tell the whole story. A business must understand costs, cash timing, margins, and the economics of each sale. Tomorrow we will explore different business models.
+[EN] You have completed Day 5. Sales alone do not tell the whole story. A business must understand costs, cash timing, margins, and the economics of each sale. Tomorrow we will explore different business models.

@@ -2,234 +2,194 @@ BUSINESS LEARNING — DAY 6: Business Models
 Complete audio lesson narration script
 
 INTRODUCTION
-Welcome to Day 6. Businesses can create value and collect revenue in different ways. Today we will compare common business models and explain how they serve customers, earn money, and grow.
+[EN] Welcome to Day 6. Businesses can create value and collect revenue in different ways. Today we will compare common business models and explain how they serve customers, earn money, and grow.
 
 TERM 1 — Subscription Model
-Let's start with subscription model and build the idea step by step.
-The term is Subscription Model. Subscription Model. Subscription Model.
-Pronunciation: sub-SKRIP-shun MOD-ul.
-Russian translation: модель подписки.
-In simple English: A subscription model charges customers regularly for continued access to a product or service.
-Detailed explanation in Russian: Модель подписки предполагает регулярную оплату за доступ, услуги или поставки. Она может сделать доход более предсказуемым, но требует постоянно поддерживать ценность и снижать отток клиентов. Условия отмены, период оплаты и стоимость обслуживания влияют на устойчивость модели.
-Real business examples:
-The language app used a subscription model with monthly and yearly plans.
-A yacht maintenance company offered an annual subscription for scheduled inspections.
-English in context:
-The team reviewed subscription model before making its next decision.
-The manager explained subscription model to a new colleague with a practical example.
-Listen and repeat:
-Keep subscription model in mind when planning the next step.
-A business can use subscription model to make a more informed choice.
-In practice, a subscription model charges customers regularly for continued access to a product or service.
-Quick question:
-How can subscription model help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Let's start with subscription model and build the idea step by step.
+[EN] In simple English: A subscription model charges customers regularly for continued access to a product or service.
+[EN] Business examples.
+[EN] The language app used a subscription model with monthly and yearly plans.
+[EN] A yacht maintenance company offered an annual subscription for scheduled inspections.
+[EN] English in context.
+[EN] The team reviewed subscription model before making its next decision.
+[EN] The manager explained subscription model to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep subscription model in mind when planning the next step.
+[EN] A business can use subscription model to make a more informed choice.
+[EN] In practice, a subscription model charges customers regularly for continued access to a product or service.
+[EN] Quick question.
+[EN] How can subscription model help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 2 — Freemium
-Now that we have explored subscription model, let's connect it to freemium.
-The term is Freemium. Freemium. Freemium.
-Pronunciation: FREE-mee-um.
-Russian translation: фримиум, бесплатная базовая версия с платными функциями.
-In simple English: Freemium gives basic features for free and charges for advanced features or higher usage.
-Detailed explanation in Russian: Фримиум сочетает бесплатный базовый доступ с платными возможностями, объёмом или поддержкой. Бесплатная версия помогает привлечь пользователей, но компания должна покрывать расходы на их обслуживание и убедить часть аудитории перейти на платный план. Модель работает, если бесплатный уровень полезен, а платный даёт заметную дополнительную ценность.
-Real business examples:
-The design app used freemium: basic templates were free, while team tools were paid.
-The booking platform let small operators start free and charged for advanced reporting.
-English in context:
-The team reviewed freemium before making its next decision.
-The manager explained freemium to a new colleague with a practical example.
-Listen and repeat:
-Keep freemium in mind when planning the next step.
-A business can use freemium to make a more informed choice.
-In practice, freemium gives basic features for free and charges for advanced features or higher usage.
-Quick question:
-How can freemium help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored subscription model, let's connect it to freemium.
+[EN] In simple English: Freemium gives basic features for free and charges for advanced features or higher usage.
+[EN] Business examples.
+[EN] The design app used freemium: basic templates were free, while team tools were paid.
+[EN] The booking platform let small operators start free and charged for advanced reporting.
+[EN] English in context.
+[EN] The team reviewed freemium before making its next decision.
+[EN] The manager explained freemium to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep freemium in mind when planning the next step.
+[EN] A business can use freemium to make a more informed choice.
+[EN] In practice, freemium gives basic features for free and charges for advanced features or higher usage.
+[EN] Quick question.
+[EN] How can freemium help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 3 — Marketplace
-Now that we have explored freemium, let's connect it to marketplace.
-The term is Marketplace. Marketplace. Marketplace.
-Pronunciation: MAR-kit-place.
-Russian translation: торговая площадка, маркетплейс.
-In simple English: A marketplace connects buyers and sellers so they can find and trade with each other.
-Detailed explanation in Russian: Маркетплейс сводит несколько групп участников, например покупателей и продавцов. Платформа может помогать с поиском, оплатой, отзывами и доверием, но сама не обязательно владеет продаваемыми товарами. Её ценность растёт, когда на площадке достаточно подходящих продавцов и покупателей.
-Real business examples:
-The marketplace helped local farms sell produce to nearby restaurants.
-A marine marketplace connected boat owners with vetted repair professionals.
-English in context:
-The team reviewed marketplace before making its next decision.
-The manager explained marketplace to a new colleague with a practical example.
-Listen and repeat:
-Keep marketplace in mind when planning the next step.
-A business can use marketplace to make a more informed choice.
-In practice, a marketplace connects buyers and sellers so they can find and trade with each other.
-Quick question:
-How can marketplace help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored freemium, let's connect it to marketplace.
+[EN] In simple English: A marketplace connects buyers and sellers so they can find and trade with each other.
+[EN] Business examples.
+[EN] The marketplace helped local farms sell produce to nearby restaurants.
+[EN] A marine marketplace connected boat owners with vetted repair professionals.
+[EN] English in context.
+[EN] The team reviewed marketplace before making its next decision.
+[EN] The manager explained marketplace to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep marketplace in mind when planning the next step.
+[EN] A business can use marketplace to make a more informed choice.
+[EN] In practice, a marketplace connects buyers and sellers so they can find and trade with each other.
+[EN] Quick question.
+[EN] How can marketplace help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 4 — Commission
-Now that we have explored marketplace, let's connect it to commission.
-The term is Commission. Commission. Commission.
-Pronunciation: kuh-MISH-un.
-Russian translation: комиссия, комиссионное вознаграждение.
-In simple English: A commission is a fee paid for arranging or completing a sale or transaction.
-Detailed explanation in Russian: Комиссия — вознаграждение за посредничество, продажу или проведённую операцию. Её рассчитывают как процент от сделки или фиксированную сумму. Ставка должна покрывать работу посредника и быть понятной участникам; чрезмерная комиссия может снизить привлекательность платформы.
-Real business examples:
-The booking site earned a commission on each hotel reservation.
-The yacht broker received a commission when a charter agreement was completed.
-English in context:
-The team reviewed commission before making its next decision.
-The manager explained commission to a new colleague with a practical example.
-Listen and repeat:
-Keep commission in mind when planning the next step.
-A business can use commission to make a more informed choice.
-In practice, a commission is a fee paid for arranging or completing a sale or transaction.
-Quick question:
-How can commission help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored marketplace, let's connect it to commission.
+[EN] In simple English: A commission is a fee paid for arranging or completing a sale or transaction.
+[EN] Business examples.
+[EN] The booking site earned a commission on each hotel reservation.
+[EN] The yacht broker received a commission when a charter agreement was completed.
+[EN] English in context.
+[EN] The team reviewed commission before making its next decision.
+[EN] The manager explained commission to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep commission in mind when planning the next step.
+[EN] A business can use commission to make a more informed choice.
+[EN] In practice, a commission is a fee paid for arranging or completing a sale or transaction.
+[EN] Quick question.
+[EN] How can commission help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 5 — Licensing
-Now that we have explored commission, let's connect it to licensing.
-The term is Licensing. Licensing. Licensing.
-Pronunciation: LY-sun-sing.
-Russian translation: лицензирование, предоставление лицензии.
-In simple English: Licensing lets another party use intellectual property under agreed conditions, usually for a fee.
-Detailed explanation in Russian: Лицензирование даёт другой стороне право использовать интеллектуальную собственность — например, бренд, технологию, дизайн или контент — на оговорённых условиях. Владелец сохраняет права, а лицензиат получает разрешённый доступ. В договоре важны срок, территория, допустимое использование, качество и размер платежей.
-Real business examples:
-The software company earned revenue by licensing its booking system to hotels.
-A local manufacturer licensed a well-known brand for a line of sailing bags.
-English in context:
-The team reviewed licensing before making its next decision.
-The manager explained licensing to a new colleague with a practical example.
-Listen and repeat:
-Keep licensing in mind when planning the next step.
-A business can use licensing to make a more informed choice.
-In practice, licensing lets another party use intellectual property under agreed conditions, usually for a fee.
-Quick question:
-How can licensing help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored commission, let's connect it to licensing.
+[EN] In simple English: Licensing lets another party use intellectual property under agreed conditions, usually for a fee.
+[EN] Business examples.
+[EN] The software company earned revenue by licensing its booking system to hotels.
+[EN] A local manufacturer licensed a well-known brand for a line of sailing bags.
+[EN] English in context.
+[EN] The team reviewed licensing before making its next decision.
+[EN] The manager explained licensing to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep licensing in mind when planning the next step.
+[EN] A business can use licensing to make a more informed choice.
+[EN] In practice, licensing lets another party use intellectual property under agreed conditions, usually for a fee.
+[EN] Quick question.
+[EN] How can licensing help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 6 — Franchise
-Now that we have explored licensing, let's connect it to franchise.
-The term is Franchise. Franchise. Franchise.
-Pronunciation: FRAN-chyz.
-Russian translation: франшиза.
-In simple English: A franchise lets an operator use a business brand and system under agreed rules and fees.
-Detailed explanation in Russian: Франшиза позволяет предпринимателю вести бизнес под известным брендом и использовать проверенные процессы. Франчайзер обычно предоставляет обучение, стандарты и поддержку, а франчайзи платит первоначальный и/или регулярный взнос. Успех зависит от качества системы, соблюдения стандартов и экономики конкретной точки.
-Real business examples:
-The owner opened a franchise café using the brand’s menu and operating system.
-A repair company expanded through franchise operators trained to follow its service standards.
-English in context:
-The team reviewed franchise before making its next decision.
-The manager explained franchise to a new colleague with a practical example.
-Listen and repeat:
-Keep franchise in mind when planning the next step.
-A business can use franchise to make a more informed choice.
-In practice, a franchise lets an operator use a business brand and system under agreed rules and fees.
-Quick question:
-How can franchise help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored licensing, let's connect it to franchise.
+[EN] In simple English: A franchise lets an operator use a business brand and system under agreed rules and fees.
+[EN] Business examples.
+[EN] The owner opened a franchise café using the brand’s menu and operating system.
+[EN] A repair company expanded through franchise operators trained to follow its service standards.
+[EN] English in context.
+[EN] The team reviewed franchise before making its next decision.
+[EN] The manager explained franchise to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep franchise in mind when planning the next step.
+[EN] A business can use franchise to make a more informed choice.
+[EN] In practice, a franchise lets an operator use a business brand and system under agreed rules and fees.
+[EN] Quick question.
+[EN] How can franchise help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 7 — Direct-to-Consumer (D2C)
-Now that we have explored franchise, let's connect it to direct-to-consumer (d2c).
-The term is Direct-to-Consumer (D2C). Direct-to-Consumer (D2C). Direct-to-Consumer (D2C).
-Pronunciation: dih-REKT tuh kuhn-SOO-mer.
-Russian translation: прямые продажи потребителю (D2C).
-In simple English: D2C means a business sells its products directly to consumers instead of using traditional retailers.
-Detailed explanation in Russian: Модель D2C означает, что производитель продаёт конечным потребителям напрямую, например через собственный сайт или магазин. Компания получает прямой контакт и больше контроля над опытом клиента, но сама отвечает за маркетинг, продажи, доставку и обслуживание. Экономика зависит от стоимости привлечения клиентов и выполнения заказов.
-Real business examples:
-The skincare brand used a D2C website to sell directly to shoppers.
-The boat-accessory maker grew through direct online sales to sailors.
-English in context:
-The team reviewed direct-to-consumer (d2c) before making its next decision.
-The manager explained direct-to-consumer (d2c) to a new colleague with a practical example.
-Listen and repeat:
-Keep direct-to-consumer (d2c) in mind when planning the next step.
-A business can use direct-to-consumer (d2c) to make a more informed choice.
-In practice, d2C means a business sells its products directly to consumers instead of using traditional retailers.
-Quick question:
-How can direct-to-consumer (d2c) help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored franchise, let's connect it to direct-to-consumer (d2c).
+[EN] In simple English: D2C means a business sells its products directly to consumers instead of using traditional retailers.
+[EN] Business examples.
+[EN] The skincare brand used a D2C website to sell directly to shoppers.
+[EN] The boat-accessory maker grew through direct online sales to sailors.
+[EN] English in context.
+[EN] The team reviewed direct-to-consumer (d2c) before making its next decision.
+[EN] The manager explained direct-to-consumer (d2c) to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep direct-to-consumer (d2c) in mind when planning the next step.
+[EN] A business can use direct-to-consumer (d2c) to make a more informed choice.
+[EN] In practice, d2C means a business sells its products directly to consumers instead of using traditional retailers.
+[EN] Quick question.
+[EN] How can direct-to-consumer (d2c) help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 8 — Business-to-Business (B2B)
-Now that we have explored direct-to-consumer (d2c), let's connect it to business-to-business (b2b).
-The term is Business-to-Business (B2B). Business-to-Business (B2B). Business-to-Business (B2B).
-Pronunciation: BIZ-niss tuh BIZ-niss.
-Russian translation: бизнес для бизнеса (B2B).
-In simple English: B2B describes a business that sells products or services to other businesses.
-Detailed explanation in Russian: B2B — модель, при которой покупателями выступают компании, а не конечные потребители. Сделки могут включать больше согласований, длительные отношения и индивидуальные условия. Решение часто принимают несколько участников, поэтому важно понимать бизнес-задачу, бюджет и процесс закупки клиента.
-Real business examples:
-The software company sold inventory tools to restaurant groups.
-A marine supplier provided safety equipment to commercial ferry operators.
-English in context:
-The team reviewed business-to-business (b2b) before making its next decision.
-The manager explained business-to-business (b2b) to a new colleague with a practical example.
-Listen and repeat:
-Keep business-to-business (b2b) in mind when planning the next step.
-A business can use business-to-business (b2b) to make a more informed choice.
-In practice, b2B describes a business that sells products or services to other businesses.
-Quick question:
-How can business-to-business (b2b) help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored direct-to-consumer (d2c), let's connect it to business-to-business (b2b).
+[EN] In simple English: B2B describes a business that sells products or services to other businesses.
+[EN] Business examples.
+[EN] The software company sold inventory tools to restaurant groups.
+[EN] A marine supplier provided safety equipment to commercial ferry operators.
+[EN] English in context.
+[EN] The team reviewed business-to-business (b2b) before making its next decision.
+[EN] The manager explained business-to-business (b2b) to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep business-to-business (b2b) in mind when planning the next step.
+[EN] A business can use business-to-business (b2b) to make a more informed choice.
+[EN] In practice, b2B describes a business that sells products or services to other businesses.
+[EN] Quick question.
+[EN] How can business-to-business (b2b) help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 9 — Business-to-Consumer (B2C)
-Now that we have explored business-to-business (b2b), let's connect it to business-to-consumer (b2c).
-The term is Business-to-Consumer (B2C). Business-to-Consumer (B2C). Business-to-Consumer (B2C).
-Pronunciation: BIZ-niss tuh kuhn-SOO-mer.
-Russian translation: бизнес для потребителя (B2C).
-In simple English: B2C describes a business that sells products or services directly to individual consumers.
-Detailed explanation in Russian: B2C — модель продаж частным потребителям. Покупка часто совершается быстрее, чем в B2B, а маркетинг обращается к личным потребностям, привычкам и предпочтениям. Это не абсолютное правило: стоимость товара, доверие и риск также могут удлинять решение.
-Real business examples:
-The retailer sold running shoes directly to individual customers.
-The travel company offered weekend sailing trips to families and tourists.
-English in context:
-The team reviewed business-to-consumer (b2c) before making its next decision.
-The manager explained business-to-consumer (b2c) to a new colleague with a practical example.
-Listen and repeat:
-Keep business-to-consumer (b2c) in mind when planning the next step.
-A business can use business-to-consumer (b2c) to make a more informed choice.
-In practice, b2C describes a business that sells products or services directly to individual consumers.
-Quick question:
-How can business-to-consumer (b2c) help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored business-to-business (b2b), let's connect it to business-to-consumer (b2c).
+[EN] In simple English: B2C describes a business that sells products or services directly to individual consumers.
+[EN] Business examples.
+[EN] The retailer sold running shoes directly to individual customers.
+[EN] The travel company offered weekend sailing trips to families and tourists.
+[EN] English in context.
+[EN] The team reviewed business-to-consumer (b2c) before making its next decision.
+[EN] The manager explained business-to-consumer (b2c) to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep business-to-consumer (b2c) in mind when planning the next step.
+[EN] A business can use business-to-consumer (b2c) to make a more informed choice.
+[EN] In practice, b2C describes a business that sells products or services directly to individual consumers.
+[EN] Quick question.
+[EN] How can business-to-consumer (b2c) help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 TERM 10 — Scalability
-Now that we have explored business-to-consumer (b2c), let's connect it to scalability.
-The term is Scalability. Scalability. Scalability.
-Pronunciation: skay-luh-BIL-uh-tee.
-Russian translation: масштабируемость.
-In simple English: Scalability is the ability to grow sales without costs rising at the same rate.
-Detailed explanation in Russian: Масштабируемость показывает, может ли компания обслуживать больше клиентов без пропорционального увеличения ресурсов и расходов. Цифровые продукты часто масштабируются легче, чем услуги, требующие ручной работы, но рост всё равно создаёт новые затраты и риски. Перед расширением важно проверить процессы, качество и экономику дополнительного клиента.
-Real business examples:
-The online course had strong scalability because one lesson could serve many new students.
-The cleaning company improved scalability by standardizing scheduling and training.
-English in context:
-The team reviewed scalability before making its next decision.
-The manager explained scalability to a new colleague with a practical example.
-Listen and repeat:
-Keep scalability in mind when planning the next step.
-A business can use scalability to make a more informed choice.
-In practice, scalability is the ability to grow sales without costs rising at the same rate.
-Quick question:
-How can scalability help a business make a better decision?
-[Pause for five seconds.]
-Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
+[EN] Now that we have explored business-to-consumer (b2c), let's connect it to scalability.
+[EN] In simple English: Scalability is the ability to grow sales without costs rising at the same rate.
+[EN] Business examples.
+[EN] The online course had strong scalability because one lesson could serve many new students.
+[EN] The cleaning company improved scalability by standardizing scheduling and training.
+[EN] English in context.
+[EN] The team reviewed scalability before making its next decision.
+[EN] The manager explained scalability to a new colleague with a practical example.
+[EN] Reinforcement.
+[EN] Keep scalability in mind when planning the next step.
+[EN] A business can use scalability to make a more informed choice.
+[EN] In practice, scalability is the ability to grow sales without costs rising at the same rate.
+[EN] Quick question.
+[EN] How can scalability help a business make a better decision?
+[PAUSE:5]
+[EN] Answer: It helps the business understand the situation and choose an action that fits its customers and goals.
 
 FINAL REVIEW
-Subscription Model: A subscription model charges customers regularly for continued access to a product or service.
-Freemium: Freemium gives basic features for free and charges for advanced features or higher usage.
-Marketplace: A marketplace connects buyers and sellers so they can find and trade with each other.
-Commission: A commission is a fee paid for arranging or completing a sale or transaction.
-Licensing: Licensing lets another party use intellectual property under agreed conditions, usually for a fee.
+[EN] Subscription Model: A subscription model charges customers regularly for continued access to a product or service.
+[EN] Freemium: Freemium gives basic features for free and charges for advanced features or higher usage.
+[EN] Marketplace: A marketplace connects buyers and sellers so they can find and trade with each other.
+[EN] Commission: A commission is a fee paid for arranging or completing a sale or transaction.
+[EN] Licensing: Licensing lets another party use intellectual property under agreed conditions, usually for a fee.
 
 CLOSING
-That is Day 6. A business model connects the customer, the offer, delivery, and revenue. The right model depends on customer behavior, costs, capabilities, and the market. Tomorrow we will review the week and apply the terms to a realistic business case.
+[EN] That is Day 6. A business model connects the customer, the offer, delivery, and revenue. The right model depends on customer behavior, costs, capabilities, and the market. Tomorrow we will review the week and apply the terms to a realistic business case.

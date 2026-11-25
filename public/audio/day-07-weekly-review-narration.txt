@@ -1,289 +1,230 @@
 BUSINESS LEARNING — DAY 7: WEEKLY REVIEW
 Complete audio lesson narration script
 
-Now let’s apply the week’s ideas to a small business case. Imagine Harbor Box, a startup that prepares locally sourced lunch boxes for marina staff and boat crews.
+INTRODUCTION
+[EN] Now let’s apply the week’s ideas to a small business case. Imagine Harbor Box, a startup that prepares locally sourced lunch boxes for marina staff and boat crews.
 
 CASE STUDY
-Harbor Box noticed that crews often had little time to leave the marina for lunch. The founders interviewed staff and learned that predictable delivery time mattered more than a very large menu. They tested a minimum viable product: three lunch options ordered through a simple web page. The target customers were marina teams and boat crews; the buyers were often office or vessel managers, while the end users ate the meals. The value proposition was fresh food delivered to the dock at a reliable time. Harbor Box charged per meal and offered a weekly subscription. It tracked sales volume, food and packaging costs, delivery costs, cash flow, and gross margin. A nearby café was a direct competitor. Grocery stores and customers bringing lunch from home were indirect competition. The startup tested demand with paid pre-orders before renting a kitchen. Its first challenge was reaching break-even without lowering food quality.
+[EN] Harbor Box noticed that crews often had little time to leave the marina for lunch. The founders interviewed staff and learned that predictable delivery time mattered more than a very large menu. They tested a minimum viable product: three lunch options ordered through a simple web page. The target customers were marina teams and boat crews; the buyers were often office or vessel managers, while the end users ate the meals. The value proposition was fresh food delivered to the dock at a reliable time. Harbor Box charged per meal and offered a weekly subscription. It tracked sales volume, food and packaging costs, delivery costs, cash flow, and gross margin. A nearby café was a direct competitor. Grocery stores and customers bringing lunch from home were indirect competition. The startup tested demand with paid pre-orders before renting a kitchen. Its first challenge was reaching break-even without lowering food quality.
 
 LISTENING COMPREHENSION
-1. What customer pain point is Harbor Box trying to solve?
-[Pause for five seconds.]
-Answer: Crews have little time to leave the marina and find lunch.
-2. Who may be the buyer, and who is the end user?
-[Pause for five seconds.]
-Answer: A manager may place and pay for the order; marina staff and boat crews are the end users.
-3. What is the value proposition?
-[Pause for five seconds.]
-Answer: Fresh lunch delivered to the dock at a reliable time.
-4. Name one direct competitor and one indirect competitor.
-[Pause for five seconds.]
-Answer: A nearby café is direct competition. Grocery stores or bringing lunch from home are indirect competition.
-5. Why did the founders use paid pre-orders?
-[Pause for five seconds.]
-Answer: They used them to validate demand with real buying behavior before making a larger investment.
-6. What does break-even mean for Harbor Box?
-[Pause for five seconds.]
-Answer: Revenue covers all its costs, so it makes neither a profit nor a loss.
-7. How could a weekly subscription affect its business model?
-[Pause for five seconds.]
-Answer: It could create recurring revenue and make demand easier to plan, if customers continue to renew.
+[EN] Question 1. What customer pain point is Harbor Box trying to solve?
+[PAUSE:5]
+[EN] Answer: Crews have little time to leave the marina and find lunch.
+[EN] Question 2. Who may be the buyer, and who is the end user?
+[PAUSE:5]
+[EN] Answer: A manager may place and pay for the order; marina staff and boat crews are the end users.
+[EN] Question 3. What is the value proposition?
+[PAUSE:5]
+[EN] Answer: Fresh lunch delivered to the dock at a reliable time.
+[EN] Question 4. Name one direct competitor and one indirect competitor.
+[PAUSE:5]
+[EN] Answer: A nearby café is direct competition. Grocery stores or bringing lunch from home are indirect competition.
+[EN] Question 5. Why did the founders use paid pre-orders?
+[PAUSE:5]
+[EN] Answer: They used them to validate demand with real buying behavior before making a larger investment.
+[EN] Question 6. What does break-even mean for Harbor Box?
+[PAUSE:5]
+[EN] Answer: Revenue covers all its costs, so it makes neither a profit nor a loss.
+[EN] Question 7. How could a weekly subscription affect its business model?
+[PAUSE:5]
+[EN] Answer: It could create recurring revenue and make demand easier to plan, if customers continue to renew.
 
 VOCABULARY RECALL · 60 TERMS
-Review term 1.
-Which business term means this: A business solves a problem for customers by offering a product or service. It earns money when customers choose that offer.
-[Pause for five seconds.]
-The answer is Business.
-Review term 2.
-Which business term means this: A customer is a person or company that buys a product or service.
-[Pause for five seconds.]
-The answer is Customer.
-Review term 3.
-Which business term means this: A product is something a business makes or sells to meet a customer need.
-[Pause for five seconds.]
-The answer is Product.
-Review term 4.
-Which business term means this: A service is useful work that a business does for a customer.
-[Pause for five seconds.]
-The answer is Service.
-Review term 5.
-Which business term means this: Value is the useful benefit a customer gets from a product or service.
-[Pause for five seconds.]
-The answer is Value.
-Review term 6.
-Which business term means this: A market is the group of customers who may want an offer, together with the other offers that compete for them.
-[Pause for five seconds.]
-The answer is Market.
-Review term 7.
-Which business term means this: Revenue is all the money a business receives from selling products or services before costs are subtracted.
-[Pause for five seconds.]
-The answer is Revenue.
-Review term 8.
-Which business term means this: A cost is money a business spends to make, sell, or deliver something.
-[Pause for five seconds.]
-The answer is Cost.
-Review term 9.
-Which business term means this: Profit is the money left after a business subtracts its costs from its revenue.
-[Pause for five seconds.]
-The answer is Profit.
-Review term 10.
-Which business term means this: A business model explains how a company creates value for customers and earns money from it.
-[Pause for five seconds.]
-The answer is Business Model.
-Review term 11.
-Which business term means this: A business idea describes a possible way to help customers and earn money.
-[Pause for five seconds.]
-The answer is Business Idea.
-Review term 12.
-Which business term means this: A problem is a difficulty or unmet need that a customer wants to address.
-[Pause for five seconds.]
-The answer is Problem.
-Review term 13.
-Which business term means this: A solution is a product or service that helps reduce or solve a customer problem.
-[Pause for five seconds.]
-The answer is Solution.
-Review term 14.
-Which business term means this: An opportunity is a promising chance to meet a real need in a workable way.
-[Pause for five seconds.]
-The answer is Opportunity.
-Review term 15.
-Which business term means this: An entrepreneur starts or develops a business and takes responsibility for its risks and decisions.
-[Pause for five seconds.]
-The answer is Entrepreneur.
-Review term 16.
-Which business term means this: Innovation is a new or improved way to create value for customers.
-[Pause for five seconds.]
-The answer is Innovation.
-Review term 17.
-Which business term means this: A value proposition explains who an offer helps and why it is useful.
-[Pause for five seconds.]
-The answer is Value Proposition.
-Review term 18.
-Which business term means this: Feasibility is how practical and achievable a business idea is.
-[Pause for five seconds.]
-The answer is Feasibility.
-Review term 19.
-Which business term means this: An MVP is a simple first version used to test the most important idea with customers.
-[Pause for five seconds.]
-The answer is Minimum Viable Product (MVP).
-Review term 20.
-Which business term means this: Validation is checking an idea with evidence from real or potential customers.
-[Pause for five seconds.]
-The answer is Validation.
-Review term 21.
-Which business term means this: A target customer is the person or organization a business chooses to serve.
-[Pause for five seconds.]
-The answer is Target Customer.
-Review term 22.
-Which business term means this: Customer needs are the results or help people are looking for.
-[Pause for five seconds.]
-The answer is Customer Needs.
-Review term 23.
-Which business term means this: A pain point is a specific difficulty that causes customers frustration, cost, or delay.
-[Pause for five seconds.]
-The answer is Pain Point.
-Review term 24.
-Which business term means this: A customer segment is a group of customers with similar needs or characteristics.
-[Pause for five seconds.]
-The answer is Customer Segment.
-Review term 25.
-Which business term means this: A buyer is the person or organization that chooses and pays for an offer.
-[Pause for five seconds.]
-The answer is Buyer.
-Review term 26.
-Which business term means this: An end user is the person who actually uses a product or service.
-[Pause for five seconds.]
-The answer is End User.
-Review term 27.
-Which business term means this: Customer feedback is information customers share about their experience or needs.
-[Pause for five seconds.]
-The answer is Customer Feedback.
-Review term 28.
-Which business term means this: Customer satisfaction describes how well an experience meets a customer’s expectations.
-[Pause for five seconds.]
-The answer is Customer Satisfaction.
-Review term 29.
-Which business term means this: Customer behavior is what customers do when they search, choose, buy, and use offers.
-[Pause for five seconds.]
-The answer is Customer Behavior.
-Review term 30.
-Which business term means this: Demand is how much customers want and are able to buy at different prices.
-[Pause for five seconds.]
-The answer is Demand.
-Review term 31.
-Which business term means this: Market size is the total number of customers or amount of sales in a defined market.
-[Pause for five seconds.]
-The answer is Market Size.
-Review term 32.
-Which business term means this: Market share is the part of total market sales earned by one business.
-[Pause for five seconds.]
-The answer is Market Share.
-Review term 33.
-Which business term means this: A niche market is a small, specific group of customers with a focused need.
-[Pause for five seconds.]
-The answer is Niche Market.
-Review term 34.
-Which business term means this: A competitor is a business customers may choose instead of yours.
-[Pause for five seconds.]
-The answer is Competitor.
-Review term 35.
-Which business term means this: Direct competition is between businesses offering similar solutions to the same customers.
-[Pause for five seconds.]
-The answer is Direct Competition.
-Review term 36.
-Which business term means this: Indirect competition comes from different offers that solve the same customer problem.
-[Pause for five seconds.]
-The answer is Indirect Competition.
-Review term 37.
-Which business term means this: A competitive advantage is a strength that helps a business serve customers better than alternatives.
-[Pause for five seconds.]
-The answer is Competitive Advantage.
-Review term 38.
-Which business term means this: Differentiation is making an offer meaningfully different from competing options.
-[Pause for five seconds.]
-The answer is Differentiation.
-Review term 39.
-Which business term means this: A barrier to entry is something that makes it difficult for a new business to enter a market.
-[Pause for five seconds.]
-The answer is Barrier to Entry.
-Review term 40.
-Which business term means this: A market trend is a direction in which customer preferences or market conditions are changing.
-[Pause for five seconds.]
-The answer is Market Trend.
-Review term 41.
-Which business term means this: Sales volume is the number of units or transactions sold in a period.
-[Pause for five seconds.]
-The answer is Sales Volume.
-Review term 42.
-Which business term means this: Fixed costs usually stay similar when sales volume changes over a short period.
-[Pause for five seconds.]
-The answer is Fixed Costs.
-Review term 43.
-Which business term means this: Variable costs rise or fall with the amount a business produces or sells.
-[Pause for five seconds.]
-The answer is Variable Costs.
-Review term 44.
-Which business term means this: The break-even point is when revenue covers all costs, so the business makes neither a profit nor a loss.
-[Pause for five seconds.]
-The answer is Break-Even Point.
-Review term 45.
-Which business term means this: Cash flow is the money moving into and out of a business over time.
-[Pause for five seconds.]
-The answer is Cash Flow.
-Review term 46.
-Which business term means this: Markup is the amount added to a product’s cost to set its selling price.
-[Pause for five seconds.]
-The answer is Markup.
-Review term 47.
-Which business term means this: Gross margin is the share of sales revenue left after direct costs of the products or services are paid.
-[Pause for five seconds.]
-The answer is Gross Margin.
-Review term 48.
-Which business term means this: Recurring revenue is income a business expects to receive repeatedly from ongoing customer agreements.
-[Pause for five seconds.]
-The answer is Recurring Revenue.
-Review term 49.
-Which business term means this: Unit economics describes the revenue and costs connected to one sale, customer, or product unit.
-[Pause for five seconds.]
-The answer is Unit Economics.
-Review term 50.
-Which business term means this: Operating expenses are the ongoing costs of running a business, apart from direct production costs.
-[Pause for five seconds.]
-The answer is Operating Expenses (OPEX).
-Review term 51.
-Which business term means this: A subscription model charges customers regularly for continued access to a product or service.
-[Pause for five seconds.]
-The answer is Subscription Model.
-Review term 52.
-Which business term means this: Freemium gives basic features for free and charges for advanced features or higher usage.
-[Pause for five seconds.]
-The answer is Freemium.
-Review term 53.
-Which business term means this: A marketplace connects buyers and sellers so they can find and trade with each other.
-[Pause for five seconds.]
-The answer is Marketplace.
-Review term 54.
-Which business term means this: A commission is a fee paid for arranging or completing a sale or transaction.
-[Pause for five seconds.]
-The answer is Commission.
-Review term 55.
-Which business term means this: Licensing lets another party use intellectual property under agreed conditions, usually for a fee.
-[Pause for five seconds.]
-The answer is Licensing.
-Review term 56.
-Which business term means this: A franchise lets an operator use a business brand and system under agreed rules and fees.
-[Pause for five seconds.]
-The answer is Franchise.
-Review term 57.
-Which business term means this: D2C means a business sells its products directly to consumers instead of using traditional retailers.
-[Pause for five seconds.]
-The answer is Direct-to-Consumer (D2C).
-Review term 58.
-Which business term means this: B2B describes a business that sells products or services to other businesses.
-[Pause for five seconds.]
-The answer is Business-to-Business (B2B).
-Review term 59.
-Which business term means this: B2C describes a business that sells products or services directly to individual consumers.
-[Pause for five seconds.]
-The answer is Business-to-Consumer (B2C).
-Review term 60.
-Which business term means this: Scalability is the ability to grow sales without costs rising at the same rate.
-[Pause for five seconds.]
-The answer is Scalability.
+[EN] Review question 1. Which business term means this: A business solves a problem for customers by offering a product or service. It earns money when customers choose that offer.
+[PAUSE:5]
+[EN] The answer is Business.
+[EN] Review question 2. Which business term means this: A customer is a person or company that buys a product or service.
+[PAUSE:5]
+[EN] The answer is Customer.
+[EN] Review question 3. Which business term means this: A product is something a business makes or sells to meet a customer need.
+[PAUSE:5]
+[EN] The answer is Product.
+[EN] Review question 4. Which business term means this: A service is useful work that a business does for a customer.
+[PAUSE:5]
+[EN] The answer is Service.
+[EN] Review question 5. Which business term means this: Value is the useful benefit a customer gets from a product or service.
+[PAUSE:5]
+[EN] The answer is Value.
+[EN] Review question 6. Which business term means this: A market is the group of customers who may want an offer, together with the other offers that compete for them.
+[PAUSE:5]
+[EN] The answer is Market.
+[EN] Review question 7. Which business term means this: Revenue is all the money a business receives from selling products or services before costs are subtracted.
+[PAUSE:5]
+[EN] The answer is Revenue.
+[EN] Review question 8. Which business term means this: A cost is money a business spends to make, sell, or deliver something.
+[PAUSE:5]
+[EN] The answer is Cost.
+[EN] Review question 9. Which business term means this: Profit is the money left after a business subtracts its costs from its revenue.
+[PAUSE:5]
+[EN] The answer is Profit.
+[EN] Review question 10. Which business term means this: A business model explains how a company creates value for customers and earns money from it.
+[PAUSE:5]
+[EN] The answer is Business Model.
+[EN] Review question 11. Which business term means this: A business idea describes a possible way to help customers and earn money.
+[PAUSE:5]
+[EN] The answer is Business Idea.
+[EN] Review question 12. Which business term means this: A problem is a difficulty or unmet need that a customer wants to address.
+[PAUSE:5]
+[EN] The answer is Problem.
+[EN] Review question 13. Which business term means this: A solution is a product or service that helps reduce or solve a customer problem.
+[PAUSE:5]
+[EN] The answer is Solution.
+[EN] Review question 14. Which business term means this: An opportunity is a promising chance to meet a real need in a workable way.
+[PAUSE:5]
+[EN] The answer is Opportunity.
+[EN] Review question 15. Which business term means this: An entrepreneur starts or develops a business and takes responsibility for its risks and decisions.
+[PAUSE:5]
+[EN] The answer is Entrepreneur.
+[EN] Review question 16. Which business term means this: Innovation is a new or improved way to create value for customers.
+[PAUSE:5]
+[EN] The answer is Innovation.
+[EN] Review question 17. Which business term means this: A value proposition explains who an offer helps and why it is useful.
+[PAUSE:5]
+[EN] The answer is Value Proposition.
+[EN] Review question 18. Which business term means this: Feasibility is how practical and achievable a business idea is.
+[PAUSE:5]
+[EN] The answer is Feasibility.
+[EN] Review question 19. Which business term means this: An MVP is a simple first version used to test the most important idea with customers.
+[PAUSE:5]
+[EN] The answer is Minimum Viable Product (MVP).
+[EN] Review question 20. Which business term means this: Validation is checking an idea with evidence from real or potential customers.
+[PAUSE:5]
+[EN] The answer is Validation.
+[EN] Review question 21. Which business term means this: A target customer is the person or organization a business chooses to serve.
+[PAUSE:5]
+[EN] The answer is Target Customer.
+[EN] Review question 22. Which business term means this: Customer needs are the results or help people are looking for.
+[PAUSE:5]
+[EN] The answer is Customer Needs.
+[EN] Review question 23. Which business term means this: A pain point is a specific difficulty that causes customers frustration, cost, or delay.
+[PAUSE:5]
+[EN] The answer is Pain Point.
+[EN] Review question 24. Which business term means this: A customer segment is a group of customers with similar needs or characteristics.
+[PAUSE:5]
+[EN] The answer is Customer Segment.
+[EN] Review question 25. Which business term means this: A buyer is the person or organization that chooses and pays for an offer.
+[PAUSE:5]
+[EN] The answer is Buyer.
+[EN] Review question 26. Which business term means this: An end user is the person who actually uses a product or service.
+[PAUSE:5]
+[EN] The answer is End User.
+[EN] Review question 27. Which business term means this: Customer feedback is information customers share about their experience or needs.
+[PAUSE:5]
+[EN] The answer is Customer Feedback.
+[EN] Review question 28. Which business term means this: Customer satisfaction describes how well an experience meets a customer’s expectations.
+[PAUSE:5]
+[EN] The answer is Customer Satisfaction.
+[EN] Review question 29. Which business term means this: Customer behavior is what customers do when they search, choose, buy, and use offers.
+[PAUSE:5]
+[EN] The answer is Customer Behavior.
+[EN] Review question 30. Which business term means this: Demand is how much customers want and are able to buy at different prices.
+[PAUSE:5]
+[EN] The answer is Demand.
+[EN] Review question 31. Which business term means this: Market size is the total number of customers or amount of sales in a defined market.
+[PAUSE:5]
+[EN] The answer is Market Size.
+[EN] Review question 32. Which business term means this: Market share is the part of total market sales earned by one business.
+[PAUSE:5]
+[EN] The answer is Market Share.
+[EN] Review question 33. Which business term means this: A niche market is a small, specific group of customers with a focused need.
+[PAUSE:5]
+[EN] The answer is Niche Market.
+[EN] Review question 34. Which business term means this: A competitor is a business customers may choose instead of yours.
+[PAUSE:5]
+[EN] The answer is Competitor.
+[EN] Review question 35. Which business term means this: Direct competition is between businesses offering similar solutions to the same customers.
+[PAUSE:5]
+[EN] The answer is Direct Competition.
+[EN] Review question 36. Which business term means this: Indirect competition comes from different offers that solve the same customer problem.
+[PAUSE:5]
+[EN] The answer is Indirect Competition.
+[EN] Review question 37. Which business term means this: A competitive advantage is a strength that helps a business serve customers better than alternatives.
+[PAUSE:5]
+[EN] The answer is Competitive Advantage.
+[EN] Review question 38. Which business term means this: Differentiation is making an offer meaningfully different from competing options.
+[PAUSE:5]
+[EN] The answer is Differentiation.
+[EN] Review question 39. Which business term means this: A barrier to entry is something that makes it difficult for a new business to enter a market.
+[PAUSE:5]
+[EN] The answer is Barrier to Entry.
+[EN] Review question 40. Which business term means this: A market trend is a direction in which customer preferences or market conditions are changing.
+[PAUSE:5]
+[EN] The answer is Market Trend.
+[EN] Review question 41. Which business term means this: Sales volume is the number of units or transactions sold in a period.
+[PAUSE:5]
+[EN] The answer is Sales Volume.
+[EN] Review question 42. Which business term means this: Fixed costs usually stay similar when sales volume changes over a short period.
+[PAUSE:5]
+[EN] The answer is Fixed Costs.
+[EN] Review question 43. Which business term means this: Variable costs rise or fall with the amount a business produces or sells.
+[PAUSE:5]
+[EN] The answer is Variable Costs.
+[EN] Review question 44. Which business term means this: The break-even point is when revenue covers all costs, so the business makes neither a profit nor a loss.
+[PAUSE:5]
+[EN] The answer is Break-Even Point.
+[EN] Review question 45. Which business term means this: Cash flow is the money moving into and out of a business over time.
+[PAUSE:5]
+[EN] The answer is Cash Flow.
+[EN] Review question 46. Which business term means this: Markup is the amount added to a product’s cost to set its selling price.
+[PAUSE:5]
+[EN] The answer is Markup.
+[EN] Review question 47. Which business term means this: Gross margin is the share of sales revenue left after direct costs of the products or services are paid.
+[PAUSE:5]
+[EN] The answer is Gross Margin.
+[EN] Review question 48. Which business term means this: Recurring revenue is income a business expects to receive repeatedly from ongoing customer agreements.
+[PAUSE:5]
+[EN] The answer is Recurring Revenue.
+[EN] Review question 49. Which business term means this: Unit economics describes the revenue and costs connected to one sale, customer, or product unit.
+[PAUSE:5]
+[EN] The answer is Unit Economics.
+[EN] Review question 50. Which business term means this: Operating expenses are the ongoing costs of running a business, apart from direct production costs.
+[PAUSE:5]
+[EN] The answer is Operating Expenses (OPEX).
+[EN] Review question 51. Which business term means this: A subscription model charges customers regularly for continued access to a product or service.
+[PAUSE:5]
+[EN] The answer is Subscription Model.
+[EN] Review question 52. Which business term means this: Freemium gives basic features for free and charges for advanced features or higher usage.
+[PAUSE:5]
+[EN] The answer is Freemium.
+[EN] Review question 53. Which business term means this: A marketplace connects buyers and sellers so they can find and trade with each other.
+[PAUSE:5]
+[EN] The answer is Marketplace.
+[EN] Review question 54. Which business term means this: A commission is a fee paid for arranging or completing a sale or transaction.
+[PAUSE:5]
+[EN] The answer is Commission.
+[EN] Review question 55. Which business term means this: Licensing lets another party use intellectual property under agreed conditions, usually for a fee.
+[PAUSE:5]
+[EN] The answer is Licensing.
+[EN] Review question 56. Which business term means this: A franchise lets an operator use a business brand and system under agreed rules and fees.
+[PAUSE:5]
+[EN] The answer is Franchise.
+[EN] Review question 57. Which business term means this: D2C means a business sells its products directly to consumers instead of using traditional retailers.
+[PAUSE:5]
+[EN] The answer is Direct-to-Consumer (D2C).
+[EN] Review question 58. Which business term means this: B2B describes a business that sells products or services to other businesses.
+[PAUSE:5]
+[EN] The answer is Business-to-Business (B2B).
+[EN] Review question 59. Which business term means this: B2C describes a business that sells products or services directly to individual consumers.
+[PAUSE:5]
+[EN] The answer is Business-to-Consumer (B2C).
+[EN] Review question 60. Which business term means this: Scalability is the ability to grow sales without costs rising at the same rate.
+[PAUSE:5]
+[EN] The answer is Scalability.
 
 FINAL REVIEW QUIZ
-Which term describes a short first version used to test an idea?
-[Pause for five seconds.]
-The answer is Minimum Viable Product, or MVP.
-Which term means revenue covers all costs?
-[Pause for five seconds.]
-The answer is Break-Even Point.
-Which model connects buyers and sellers?
-[Pause for five seconds.]
-The answer is Marketplace.
-Which measure is sales revenue minus direct costs?
-[Pause for five seconds.]
-The answer is Gross Margin.
+[EN] Which term describes a short first version used to test an idea?
+[PAUSE:5]
+[EN] The answer is Minimum Viable Product, or MVP..
+[EN] Which term means revenue covers all costs?
+[PAUSE:5]
+[EN] The answer is Break-Even Point..
+[EN] Which model connects buyers and sellers?
+[PAUSE:5]
+[EN] The answer is Marketplace..
+[EN] Which measure is sales revenue minus direct costs?
+[PAUSE:5]
+[EN] The answer is Gross Margin..
 
 CLOSING
-You reviewed all sixty terms and applied them to a realistic small business. Keep connecting customer needs, market choices, value, revenue, costs, and a workable business model.
+[EN] You reviewed all sixty terms and applied them to a realistic small business. Keep connecting customer needs, market choices, value, revenue, costs, and a workable business model.

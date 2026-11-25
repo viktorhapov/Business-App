@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import LessonPage from './LessonPage'
-import { dayOneAudio, dayOneTerms } from './lessonContent'
+import { dayOneTerms } from './lessonContent'
 import { allWeekOneTerms, daySevenCase, weekOneAudioPaths, weekOneLessons, weekOneReviewPrompts } from './weekOneLessons'
 import { ArrowRight, ArrowUpRight, Bookmark, BookOpen, BriefcaseBusiness, Check, ChevronDown, CircleHelp, Clock3, Compass, Flame, GraduationCap, LayoutDashboard, Lightbulb, Menu, MoreHorizontal, Play, Search, Settings2, Sparkles, Target, TrendingUp, Wallet } from 'lucide-react'
 
@@ -140,7 +140,7 @@ function App() {
       <footer className="page-footer"><span>BUSINESS LEARNING <i>•</i> MADE FOR YOUR NEXT CHAPTER</span><button onClick={() => setToast('Help is on the way!')}><CircleHelp size={13} /> Need a hand?</button><span className="footer-version">V 1.0.0</span></footer>
     </main>
 
-    {activeLesson && <LessonPage lesson={activeLesson} content={activeLesson.day === 1 ? dayOneTerms : activeLesson.day === 7 ? allWeekOneTerms : weekOneLessons[activeLesson.day]?.terms ?? []} audioSrc={activeLesson.day === 1 ? dayOneAudio : weekOneAudioPaths[activeLesson.day]} introduction={weekOneLessons[activeLesson.day]?.introduction ?? (activeLesson.day === 1 ? undefined : daySevenCase.introduction)} closing={weekOneLessons[activeLesson.day]?.closing ?? (activeLesson.day === 7 ? 'You reviewed all 60 terms and applied them to a realistic small business. Keep connecting customer needs, market choices, value, revenue, costs, and a workable business model.' : undefined)} finalReview={activeLesson.day === 7 ? [] : undefined} reviewCase={activeLesson.day === 7 ? daySevenCase : undefined} reviewPrompts={activeLesson.day === 7 ? weekOneReviewPrompts : undefined} favorites={bookmarked} onFavorite={toggleBookmark} onBack={() => { setActiveLesson(null); setActiveNav('Course') }} onComplete={() => completeLesson(activeLesson)} />}
+    {activeLesson && <LessonPage lesson={activeLesson} content={activeLesson.day === 1 ? dayOneTerms : activeLesson.day === 7 ? allWeekOneTerms : weekOneLessons[activeLesson.day]?.terms ?? []} audioSrc={weekOneAudioPaths[activeLesson.day]} introduction={weekOneLessons[activeLesson.day]?.introduction ?? (activeLesson.day === 1 ? undefined : daySevenCase.introduction)} closing={weekOneLessons[activeLesson.day]?.closing ?? (activeLesson.day === 7 ? 'You reviewed all 60 terms and applied them to a realistic small business. Keep connecting customer needs, market choices, value, revenue, costs, and a workable business model.' : undefined)} finalReview={activeLesson.day === 7 ? [] : undefined} reviewCase={activeLesson.day === 7 ? daySevenCase : undefined} reviewPrompts={activeLesson.day === 7 ? weekOneReviewPrompts : undefined} favorites={bookmarked} onFavorite={toggleBookmark} onBack={() => { setActiveLesson(null); setActiveNav('Course') }} onComplete={() => completeLesson(activeLesson)} />}
     {toast && <div className="toast"><span><Check size={13}/></span>{toast}</div>}
   </div>
 }
