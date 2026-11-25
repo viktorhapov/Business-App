@@ -114,7 +114,7 @@ function App() {
 
     {mobileNavOpen && <button className="mobile-scrim" aria-label="Close navigation" onClick={() => setMobileNavOpen(false)} />}
 
-    <main className="main-area">
+    <main className={`main-area ${activeLesson ? 'lesson-open' : ''}`}>
       <header className="topbar"><button className="mobile-menu" aria-label="Open navigation" onClick={() => setMobileNavOpen(true)}><Menu size={21} /></button><div className="breadcrumbs"><span>Workspace</span><span className="breadcrumb-slash">/</span><strong>{activeNav === 'Home' ? 'Overview' : activeNav}</strong></div><div className="topbar-actions"><div className="today-label"><span className="live-dot" />{todayLabel}</div><button className="icon-button search-top" aria-label="Search" onClick={() => document.getElementById('vocab-search')?.focus()}><Search size={17} /></button><button className="icon-button" aria-label="Settings" onClick={() => setToast('Your learning preferences are up to date.')}><Settings2 size={17} /></button><div className="top-avatar">V</div></div></header>
 
       {!activeLesson && activeNav === 'Home' && <div className="page-content">

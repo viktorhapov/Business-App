@@ -61,6 +61,8 @@ body{overflow-x:hidden}
   .audio-controls select{min-height:40px;font-size:12px}
   .audio-time{font-size:11px}
   .audio-seek{height:30px;margin-top:10px;touch-action:pan-x}
+  .main-area.lesson-open{min-height:0}
+  .main-area.lesson-open .page-footer{display:none}
   .toast{bottom:calc(16px + env(safe-area-inset-bottom))}
 }
 
