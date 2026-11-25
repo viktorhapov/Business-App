@@ -1,6 +1,9 @@
 name: Publish Business Learning to GitHub Pages
 
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 permissions:
@@ -30,6 +33,14 @@ jobs:
 
       - name: Build production site
         run: npm run build
+
+      - name: Verify Pages artifact layout
+        shell: bash
+        run: |
+          test -f dist/index.html
+          test ! -d dist/dist
+          echo 'Pages artifact root:'
+          find dist -maxdepth 1 -mindepth 1 -printf '%f\n' | sort
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5

@@ -2,7 +2,7 @@
 
 The production build is written to `dist/` with `npm run build`. This repository is configured for GitHub Pages at `https://viktorhapov.github.io/Business-App/`; GitHub Pages must publish the built `dist/` artifact, not the repository root. The Vite base path, PWA manifest, public assets, and service worker use the `/Business-App/` scope.
 
-The repository includes a manual-only GitHub Pages workflow at `.github/workflows/pages.yml`. In repository **Settings → Pages**, set the build and deployment source to **GitHub Actions**. The workflow does not run on pushes; after the deployment is intentionally approved, it can be started from **Actions → Publish Business Learning to GitHub Pages → Run workflow**.
+The repository includes a GitHub Pages workflow at `.github/workflows/pages.yml`. In repository **Settings → Pages**, set the build and deployment source to **GitHub Actions** before pushing workflow changes. The workflow builds Vite, verifies `dist/index.html` is at the artifact root (and there is no nested `dist/dist`), then uploads `dist/`. It runs on pushes to `master` and can also be started from **Actions → Publish Business Learning to GitHub Pages → Run workflow**.
 
 The host needs to:
 
